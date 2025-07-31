@@ -11,7 +11,6 @@ Desarrollado por **Ricardo**
 🔗 GitHub: [@Rick1551](https://github.com/Rick1551)  
 💼 Portafolio: [tu-portafolio.com](https://tu-portafolio.com) *(opcional)*
 
-
 ## 🚀 Características
 
 - Crear, editar y eliminar notas.
@@ -70,5 +69,3 @@ cmake ..
 # Compila
 cmake --build .
 
-📜 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
