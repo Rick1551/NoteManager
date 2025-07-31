@@ -4,6 +4,14 @@
 
 ---
 
+## ✨ Autor
+
+Desarrollado por **Ricardo**  
+📧 Email: ricardo_scuentas@outlook.com  
+🔗 GitHub: [@Rick1551](https://github.com/Rick1551)  
+💼 Portafolio: [tu-portafolio.com](https://tu-portafolio.com) *(opcional)*
+
+
 ## 🚀 Características
 
 - Crear, editar y eliminar notas.
