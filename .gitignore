@@ -1,0 +1,58 @@
+# Qt build artifacts
+*.pro.user
+*.pro.user.*
+*.qrc.dep
+*.autosave
+
+# CMake build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+out/
+*.obj
+*.o
+*.so
+*.a
+*.dll
+*.exe
+
+# Qt Designer UI compilation
+ui_*.h
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+
+# SQLite database
+data/*.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Qt Creator specific
+*.creator.*
+*.creator.user*
+*.creator.user
+*.creator.db
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Compiled binaries
+NoteManager
+NoteManager.exe
+
+# Test output
+tests/*.out
+tests/*.log
