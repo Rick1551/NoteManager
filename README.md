@@ -39,7 +39,7 @@
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/NoteManager.git
+git clone https://github.com/Rick1551/NoteManager.git
 cd NoteManager
 
 # Crea carpeta de compilación
@@ -50,3 +50,15 @@ cmake ..
 
 # Compila
 cmake --build .
+
+🤝 Contribuir
+¡Las contribuciones son bienvenidas! Puedes:
+
+Reportar errores o sugerencias en Issues
+
+Hacer un fork y enviar un Pull Request
+
+Compartir ideas para nuevas funcionalidades
+
+📜 Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
