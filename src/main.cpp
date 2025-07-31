@@ -1,4 +1,4 @@
-#include "NoteManager.h"
+#include "../include/NoteManager.h"
 #include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])
