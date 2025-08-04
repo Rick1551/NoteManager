@@ -98,22 +98,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\MainWindow.cpp" />
     <ClCompile Include="src\Note.cpp" />
     <ClCompile Include="src\NoteDatabase.cpp" />
     <ClCompile Include="src\NoteManager.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="resources\NoteManager.qrc" />
+    <QtRcc Include="resources\MainWindow.qrc" />
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="include\NoteManager.h" />
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="ui\NoteManager.ui" />
-  </ItemGroup>
-  <ItemGroup>
+    <QtMoc Include="include\MainWindow.h" />
     <ClInclude Include="include\Note.h" />
     <ClInclude Include="include\NoteDatabase.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="ui\MainWindow.ui" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

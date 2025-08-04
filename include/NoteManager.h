@@ -1,8 +1,6 @@
 #ifndef NOTEMANAGER_H
 #define NOTEMANAGER_H
 
-#include <QtWidgets/QMainWindow>
-#include "ui_NoteManager.h"
 #include <QObject>
 #include <QVector>
 #include "Note.h"
